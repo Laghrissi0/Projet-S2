@@ -1,0 +1,3 @@
+implementation de la solution exact
+def U_ex(x, t):
+    return u_0(x-c*t)
